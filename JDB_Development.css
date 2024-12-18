@@ -1284,6 +1284,7 @@ input[type="text"] {
     font-size: 14px;
     font-family: "Roboto";
     cursor: pointer;
+    text-align: center;
 }
 
 .footer_text {
@@ -1292,7 +1293,7 @@ input[type="text"] {
 
 .foot_text p {
     margin: 0;
-    margin-top: 5px;
+    margin-top: 20px;
 }
 
 .footer_copyright p {
